@@ -1,0 +1,21 @@
+# Virtual environments
+.venv/
+
+# Data files
+data/
+*.csv
+*.tsv
+*.xlsx
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# DB files
+*.db
+
+# macOS
+.DS_Store
+
+# Environment variables
+.env
