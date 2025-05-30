@@ -1,7 +1,7 @@
 import pandas as pd
 
 class HistoricalStockAnalyzer:
-    def init(self, file_path: str):
+    def __init__(self, file_path: str):
         self.file_path = file_path
         self.df = None
 

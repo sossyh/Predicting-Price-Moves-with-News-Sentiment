@@ -1,6 +1,7 @@
 # Virtual environments
 .venv/
-
+# Ignore Python virtual environment folder
+venv/
 # Data files
 data/
 *.csv
