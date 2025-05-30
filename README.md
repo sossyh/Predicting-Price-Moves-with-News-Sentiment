@@ -43,7 +43,7 @@ This repository contains a multi-stage project that explores the relationship be
 
 └── scripts/
 
-    └── init.py
+   └── init.py
 
 └── README.md
 
