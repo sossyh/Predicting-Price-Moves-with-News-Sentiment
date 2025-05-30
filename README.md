@@ -12,7 +12,9 @@ This repository contains a multi-stage project that explores the relationship be
 
 ### 📁 Folder Structure
 ├── .vscode/
+
 │ └── settings.json
+
 ├── .github/
 │ └── workflows/
 │ └── unittests.yml
