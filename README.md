@@ -71,11 +71,6 @@ source venv/bin/activate
 # Run notebooks
 jupyter notebook
 
-# Or run analysis scripts directly
-python scripts/run_eda.py
-python scripts/run_quant_analysis.py
-python scripts/run_sentiment_correlation.py
-
 
 ## 👤 Author
 
